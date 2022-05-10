@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\bin\Debug\Koleksiyonlar-Odev-2.exe.config
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\bin\Debug\Koleksiyonlar-Odev-2.exe
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\bin\Debug\Koleksiyonlar-Odev-2.pdb
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\obj\Debug\Koleksiyonlar-Odev-2.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\obj\Debug\Koleksiyonlar-Odev-2.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\obj\Debug\Koleksiyonlar-Odev-2.exe
+C:\Users\HP DX\source\repos\Koleksiyonlar-Odev-2\Koleksiyonlar-Odev-2\obj\Debug\Koleksiyonlar-Odev-2.pdb
